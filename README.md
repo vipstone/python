@@ -1,4 +1,8 @@
-# python自学笔记
+# 简介
+
+此项目为本人自学python的笔记记录，基于python（以下文中使用py也代表的是python的意思）。
+
+# 目录
 
 开发环境搭建
 
@@ -25,4 +29,8 @@ Http相关
 Tcp、Socket
 
 连接数据库DB
+
+
+
+
 
