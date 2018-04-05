@@ -1,5 +1,4 @@
-# python
-python自学笔记
+# python自学笔记
 
 开发环境搭建
 
